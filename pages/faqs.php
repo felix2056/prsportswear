@@ -1,6 +1,8 @@
 <?php include_once('../includes/header.php'); ?>
 
 
+<?php include_once('../includes/nav.php'); ?>
+
 <nav class="breadcrumb" aria-label="breadcrumbs">
 
     <h1>Faq</h1>
